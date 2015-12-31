@@ -9,8 +9,9 @@ DTEND:20151101T130000Z
 DTSTAMP:20151012T213238Z
 UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
 CREATED:20091130T213238Z
-DESCRIPTION:The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
+DESCRIPTION:WR - The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
 LAST-MODIFIED:20151012T213238Z
+LOCATION:Sichuan International Tennis Center, Chengdu, China
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:International Championship
@@ -25,6 +26,7 @@ UID:1285935469767a7c7c1a9b3f0df8003a@yoursever.com
 CREATED:2015101230T213238Z
 DESCRIPTION:The UK Championship is a professional men's ranking snooker tournament. It is the second biggest ranking tournament after the World Championship and is one of the Triple Crown events. Ronnie O'Sullivan is the reigning champion.
 LAST-MODIFIED:20091130T213238Z
+LOCATION:Barbican Centre, York, England
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:UK Championships
@@ -46,3 +48,4 @@ CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
+
