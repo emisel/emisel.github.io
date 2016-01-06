@@ -14,7 +14,7 @@ LAST-MODIFIED:20151012T213238Z
 LOCATION:Sichuan International Tennis Center, Chengdu, China
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:International Championship
+SUMMARY:Emil Championship
 CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
@@ -29,7 +29,7 @@ LAST-MODIFIED:20091130T213238Z
 LOCATION:Barbican Centre, York, England
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:UK Championships
+SUMMARY:Emil Championships
 CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
@@ -41,6 +41,7 @@ UID:1285935469767a7c7c1a9b3f0df8003a@yoursever.com
 CREATED:20151231T213238Z
 DESCRIPTION:The 2016 Dafabet Masters is a professional non-ranking snooker tournament that will take place between 10–17 January 2016 at the Alexandra Palace in London, England. It will be the 42nd staging of the tournament.
 LAST-MODIFIED:20151231T213238Z
+LOCATION:Ally Pally, London, England
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Masters
