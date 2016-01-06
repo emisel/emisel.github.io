@@ -19,32 +19,47 @@ CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20151124T080000Z
-DTEND:20151206T110000Z
+DTSTART:20151025T120000Z
+DTEND:20151101T130000Z
 DTSTAMP:20151012T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003a@yoursever.com
-CREATED:2015101230T213238Z
-DESCRIPTION:The UK Championship is a professional men's ranking snooker tournament. It is the second biggest ranking tournament after the World Championship and is one of the Triple Crown events. Ronnie O'Sullivan is the reigning champion.
-LAST-MODIFIED:20091130T213238Z
-LOCATION:Barbican Centre, York, England
+UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
+CREATED:20091130T213238Z
+DESCRIPTION:WR - The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
+LAST-MODIFIED:20151012T213238Z
+LOCATION:Sichuan International Tennis Center, Chengdu, China
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Emil Championships
+SUMMARY:Emil Championship
 CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20160110T080000Z
-DTEND:20160117T110000Z
-DTSTAMP:20151231T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003a@yoursever.com
-CREATED:20151231T213238Z
-DESCRIPTION:The 2016 Dafabet Masters is a professional non-ranking snooker tournament that will take place between 10–17 January 2016 at the Alexandra Palace in London, England. It will be the 42nd staging of the tournament.
-LAST-MODIFIED:20151231T213238Z
-LOCATION:Ally Pally, London, England
+DTSTART:20151025T120000Z
+DTEND:20151101T130000Z
+DTSTAMP:20151012T213238Z
+UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
+CREATED:20091130T213238Z
+DESCRIPTION:WR - The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
+LAST-MODIFIED:20151012T213238Z
+LOCATION:Sichuan International Tennis Center, Chengdu, China
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Masters
+SUMMARY:Emil Championship
+CATEGORIES:SNOOKER
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151025T120000Z
+DTEND:20151101T130000Z
+DTSTAMP:20151012T213238Z
+UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
+CREATED:20091130T213238Z
+DESCRIPTION:WR - The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
+LAST-MODIFIED:20151012T213238Z
+LOCATION:Sichuan International Tennis Center, Chengdu, China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Emil Championship
 CATEGORIES:SNOOKER
 TRANSP:OPAQUE
 END:VEVENT
