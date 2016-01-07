@@ -4,21 +4,7 @@ PRODID:-//bobbin v0.1//NONSGML iCal Writer//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
-BEGIN:VEVENT
-DTSTART:20160203
-DTEND:20160207
-DTSTAMP:20151012T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
-CREATED:20160106T213238Z
-DESCRIPTION:The 2016 German Masters professional ranking snooker tournament will take place between 3–7 February 2016 at the Tempodrom in Berlin, Germany. It is the fifth ranking event of the 2015/2016 season.
-LAST-MODIFIED:20160106T213238Z
-LOCATION:Tempodrom, Berlin, Germany
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dafabet Masters
-CATEGORIES:SNOOKER
-TRANSP:OPAQUE
-END:VEVENT
+
 
 BEGIN:VEVENT
 DTSTART:20151025
@@ -45,6 +31,22 @@ CREATED:20160106
 DESCRIPTION:The 2016 Dafabet Masters is a professional non-ranking snooker tournament that will take place between 10–17 January 2016 at the Alexandra Palace in London, England. It will be the 42nd staging of the tournament.
 LAST-MODIFIED:20160106T213238Z
 LOCATION:Alexandra Palace, London, England
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dafabet Masters
+CATEGORIES:SNOOKER
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20160203
+DTEND:20160207
+DTSTAMP:20151012T213238Z
+UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
+CREATED:20160106T213238Z
+DESCRIPTION:The 2016 German Masters professional ranking snooker tournament will take place between 3–7 February 2016 at the Tempodrom in Berlin, Germany. It is the fifth ranking event of the 2015/2016 season.
+LAST-MODIFIED:20160106T213238Z
+LOCATION:Tempodrom, Berlin, Germany
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Dafabet Masters
