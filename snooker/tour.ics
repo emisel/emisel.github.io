@@ -6,44 +6,11 @@ METHOD:PUBLISH
 
 
 
-BEGIN:VEVENT
-DTSTART:20151025
-DTEND:20151101
-DTSTAMP:20151012T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
-CREATED:20091130T213238Z
-DESCRIPTION:WR - The 2015 International Championship will be a professional ranking snooker tournament that will take place between 25 October and 1 November 2015 at the Baihu Media Broadcasting Centre in Daqing, China. It will be the third ranking event of the 2015/2016 season.
-LAST-MODIFIED:20151012T213238Z
-LOCATION:Sichuan International Tennis Center, Chengdu, China
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:International Championship
-CATEGORIES:SNOOKER
-TRANSP:OPAQUE
-END:VEVENT
 
-BEGIN:VEVENT
-DTSTART:20160110
-DTEND:20160117
-DTSTAMP:20151012T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
-CREATED:20160106
-DESCRIPTION:The 2016 Dafabet Masters is a professional non-ranking snooker tournament that will take place between 10–17 January 2016 at the Alexandra Palace in London, England. It will be the 42nd staging of the tournament.
-LAST-MODIFIED:20160106T213238Z
-LOCATION:Alexandra Palace, London, England
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dafabet Masters
-CATEGORIES:SNOOKER
-TRANSP:OPAQUE
-END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20160203
 DTEND:20160207
-DTSTAMP:20151012T213238Z
-UID:1285935469767a7c7c1a9b3f0df8003b@yoursever.com
-CREATED:20160106T213238Z
 DESCRIPTION:The 2016 German Masters professional ranking snooker tournament will take place between 3–7 February 2016 at the Tempodrom in Berlin, Germany. It is the fifth ranking event of the 2015/2016 season.
 LAST-MODIFIED:20160106T213238Z
 LOCATION:Tempodrom, Berlin, Germany
@@ -51,7 +18,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:German Masters
 CATEGORIES:SNOOKER
-TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
 
